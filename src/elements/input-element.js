@@ -21,6 +21,7 @@ class InputElement extends LitElement{
             color: white;
             background-color: #0275d8;
             border: none;
+            cursor: pointer;
             border-radius: 5px;
         }
         `;

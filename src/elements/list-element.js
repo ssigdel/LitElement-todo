@@ -29,12 +29,14 @@ class ListElement extends LitElement{
             color: white;
             background-color: #d9534f;
             border: none;
+            cursor: pointer;
             border-radius: 5px;
         }
         .edit-btn{
             color: white;
             background-color: #0275d8;
             border: none;
+            cursor: pointer;
             border-radius: 5px;
         }
         `;
